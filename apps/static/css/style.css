@@ -1,0 +1,10 @@
+body {
+    background-color: #25C515;
+}
+.container {
+    background-color: aqua;
+    width: 60%;
+    height: 600px;
+    margin: 0 auto;
+    float: center;
+}
